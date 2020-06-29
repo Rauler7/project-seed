@@ -1,4 +1,4 @@
-pipelineJob('job-dls') {
+pipelineJob('job-dsl') {
   definition {
     cps {
       script('''
