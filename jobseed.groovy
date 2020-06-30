@@ -56,7 +56,6 @@ pipelineJob('job-dsl') {
                     }
                 }
             }
-        }
       '''.stripIndent())
       sandbox()     
     }
